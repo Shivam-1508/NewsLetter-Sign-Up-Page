@@ -34,8 +34,4 @@ The record/subscriber gets added on top of the list as highlighted in the image 
 
 
 
-#### Note:
-> Also the API uses the appid and apikey which is turned down for security reasons and you can see the deployed 
-version on the given deployed link [here](https://shrouded-hamlet-34168.herokuapp.com/).
-- However you are free to give it a star, clone it, run it on your local pc.
-- As the API key is turned off this will work on your local pc flawlessly with some changes in app.js unless the dependencies are not depreciated.
+
